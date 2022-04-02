@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mitaka Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mitaka Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mitaka Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mitaka Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mitaka Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				8
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Mitaka Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 16,
+			"name": "Mitaka Left",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-97,
+				5
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 16,
+			"name": "Mitaka Right",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-76,
+				10
+			],
+			"anim": "singUP-loop",
+			"fps": 16,
+			"name": "Mitaka Up",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-85,
+				6
+			],
+			"anim": "singDOWN-loop",
+			"fps": 16,
+			"name": "Mitaka Down",
+			"indices": [
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mitaka",
+	"position": [
+		-420,
+		-930
+	],
+	"healthicon": "mitaka",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		133,
+		107
+	],
+	"camera_position": [
+		420,
+		930
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}
